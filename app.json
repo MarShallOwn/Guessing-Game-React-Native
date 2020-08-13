@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "tutorial",
-    "slug": "tutorial",
+    "name": "GuessGame",
+    "slug": "guessgame",
     "platforms": [
       "ios",
       "android",
@@ -23,6 +23,7 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": ""
   }
 }
